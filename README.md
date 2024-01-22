@@ -19,7 +19,7 @@ Usando o docker...
       - example2
       - example3 
  
-   são referentes aos exemplos dados, é somente uma concatenação para se referir
+   são referentes aos exemplos dados pelo desafio, é somente uma concatenação para se referir
       aos arquivos localizados na pasta ./resources/input,
      ```clojure 
      (defn input
@@ -41,7 +41,7 @@ Using docker...
         - example2
         - example3
 
-  refer to the examples given, it is just a concatenation to refer
+  refer to the examples given by the challenge, it is just a concatenation to refer
   to files located in the ./resources/input folder,
     ```clojure 
     (defn input
